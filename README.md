@@ -23,7 +23,6 @@ The application was run locally using IntelliJ IDEA and tested on localhost. Bec
  Get user by ID (GET /users/{id})
 ![Get user by ID](screenshots/task2-get-user-by-id.png)
 
- Delete user (DELETE /users/{id})
 ![Delete user](screenshots/task2-delete-user.png)
 
  H2 database – users table

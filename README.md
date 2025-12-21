@@ -12,22 +12,22 @@ An H2 in-memory database is used to store application data. The database can be 
 
 The application was run locally using IntelliJ IDEA and tested on localhost. Because an in-memory database is used, all data is removed when the application is restarted. This project demonstrates a basic but complete REST API application built with Spring Boot, including request handling, data persistence, API testing and documentation.
 
-## Screenshots
+ Screenshots
 
-### Swagger – available endpoints
+ Swagger – available endpoints
 ![Swagger users](screenshots/swagger-users.png)
 
-### Create user (POST /users)
+ Create user (POST /users)
 ![Create user](screenshots/create-user.png)
 
-### Get user by ID (GET /users/{id})
+ Get user by ID (GET /users/{id})
 ![Get user by ID](screenshots/task2-get-user-by-id.png)
 
-### Delete user (DELETE /users/{id})
+ Delete user (DELETE /users/{id})
 ![Delete user](screenshots/task2-delete-user.png)
 
-### H2 database – users table
+ H2 database – users table
 ![H2 users](screenshots/h2-users.png)
 
-### H2 database after deleting user
+ H2 database after deleting user
 ![H2 after delete](screenshots/task2-h2-after-delete.png)
